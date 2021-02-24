@@ -15,3 +15,8 @@ SELECT * FROM pessoa ORDER BY nome
 
 SELECT * FROM pessoa ORDER BY nome DESC
 
+UPDATE pessoa SET nome = 'Oseias Rodrigues Nxxxxxxxxo' WHERE id=1
+UPDATE pessoa SET nome = 'Eliane Rxxxxxxxx Nxxxxxxxxo' WHERE id=2
+UPDATE pessoa SET nome = 'Tereza d. J. Rxxxxxxxx' WHERE id=3
+UPDATE pessoa SET nome = 'Eliseu J. Nxxxxxxxxo' WHERE id=4
+
