@@ -13,3 +13,5 @@ SELECT * FROM pessoa
 
 SELECT * FROM pessoa ORDER BY nome
 
+SELECT * FROM pessoa ORDER BY nome DESC
+
