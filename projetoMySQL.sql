@@ -11,3 +11,5 @@ INSERT INTO pessoa (nome, nascimento) VALUES ('Eliseu', '1951-12-26')
 
 SELECT * FROM pessoa
 
+SELECT * FROM pessoa ORDER BY nome
+
