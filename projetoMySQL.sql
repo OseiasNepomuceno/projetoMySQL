@@ -20,3 +20,5 @@ UPDATE pessoa SET nome = 'Eliane Rxxxxxxxx Nxxxxxxxxo' WHERE id=2
 UPDATE pessoa SET nome = 'Tereza d. J. Rxxxxxxxx' WHERE id=3
 UPDATE pessoa SET nome = 'Eliseu J. Nxxxxxxxxo' WHERE id=4
 
+DELETE FROM pessoa WHERE id=1
+
