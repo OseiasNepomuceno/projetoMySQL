@@ -22,3 +22,4 @@ UPDATE pessoa SET nome = 'Eliseu J. Nxxxxxxxxo' WHERE id=4
 
 DELETE FROM pessoa WHERE id=1
 
+SELECT COUNT(id), GENERO FROM pessoa GROUP BY genero
