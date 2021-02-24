@@ -9,3 +9,5 @@ INSERT INTO pessoa (nome, nascimento) VALUES ('Eliane', '1973-11-01')
 INSERT INTO pessoa (nome, nascimento) VALUES ('Tereza', '1952-10-22')
 INSERT INTO pessoa (nome, nascimento) VALUES ('Eliseu', '1951-12-26')
 
+SELECT * FROM pessoa
+
